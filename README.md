@@ -72,7 +72,12 @@ Username: adminunida
 Password: unida2026
 
 👤 Author
-Project: Final Project Sistem Digital 2 - Januari 2026
+Project: Dasar pemrograman web
+❕❕
+our team:
+--shahan syah--
+--ibnu nafis--
+--ramah hidayah--
 
 Institution: Universitas Darussalam Gontor
 ```
