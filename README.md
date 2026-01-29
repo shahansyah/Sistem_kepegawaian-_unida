@@ -22,9 +22,9 @@ Sistem Informasi Manajemen Kepegawaian (SIMPEG) untuk Universitas Darussalam Gon
 
 ## 🖼️ Preview
 
-|     Login Page      |      Home Page       |     Data Pegawai     |    Rekap pegawai     |
-| :-----------------: | :------------------: | :------------------: | :--------------------|
-| ![Login](image.png) | ![Home](image-1.png) | ![Data](image-2.png) | ![rekap](image-3.png)|
+|     Login Page      |      Home Page       |     Data Pegawai     |    Rekap pegawai        |
+| :-----------------: | :------------------: | :------------------: | :-----------------------|
+| ![Login](image.png) | ![Home](image-1.png) | ![Data](image-2.png) | ![alt text](image-4.png)|
 
 ---
 
