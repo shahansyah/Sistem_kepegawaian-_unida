@@ -22,9 +22,9 @@ Sistem Informasi Manajemen Kepegawaian (SIMPEG) untuk Universitas Darussalam Gon
 
 ## 🖼️ Preview
 
-|     Login Page      |      Home Page       |     Data Pegawai     |
-| :-----------------: | :------------------: | :------------------: |
-| ![Login](image.png) | ![Home](image-1.png) | ![Data](image-2.png) |
+|     Login Page      |      Home Page       |     Data Pegawai     |    Rekap pegawai     |
+| :-----------------: | :------------------: | :------------------: | :--------------------|
+| ![Login](image.png) | ![Home](image-1.png) | ![Data](image-2.png) | ![rekap](image-3.png)|
 
 ---
 
@@ -47,8 +47,11 @@ kepegawaian_unida/
 ├── landing.php         # Public Landing Page
 ├── login.php           # Admin Entrance
 ├── home.php            # Main Dashboard (Glassmorphism)
-├── index.php           # Employee Database (CRUD)
-└── processes/          # Logic Handlers (Simpan & Hapus)
+├── index.php           # Employee Database (CRUD Management)
+├── rekap.php           # Laman Statistik & Rekapitulasi Karyawan [New]
+├── sinkron.php         # Skrip Sinkronisasi & Reset Data Statistik [New]
+└── processes/          # Logic Handlers (Simpan, Update, & Hapus)
+
 ⚙️ Quick Start
 1. Database Setup
 Pastikan layanan MongoDB sudah berjalan di localhost:27017.
@@ -66,18 +69,16 @@ php -S localhost:8000
 4. Visit Web
 Akses http://localhost:8000/landing.php di browser kamu.
 
+buat reset data
+localhost:8000/sinkron.php
+
 🔐 Admin Access
 Username: adminunida
 
 Password: unida2026
 
 👤 Author
-Project: Dasar pemrograman web
-❕❕
-our team:
---shahan syah--
---ibnu nafis--
---ramah hidayah--
+Project: Dasar pemrograman web - Januari 2026
 
 Institution: Universitas Darussalam Gontor
 ```
